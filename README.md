@@ -1,1 +1,1 @@
-Released v1
+Added Readme and updated app
